@@ -1,0 +1,2 @@
+# Git-course
+This repo is created for learning purpose
